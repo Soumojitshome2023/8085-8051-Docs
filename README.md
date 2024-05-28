@@ -190,3 +190,18 @@ The Intel 8085 microprocessor is a widely used 8-bit microprocessor introduced b
 
 
 ---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/98Q2UwiFB70?si=TE-BG2ulZ2JmZCdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# 8085 Microprocessor Commands
+
+## Kuruganti Shorthand Notation
+
+1.  Downloading Command :  `L0000` Enter
+2.  Assembly Program Checking : `D8000` Enter
+3.  Run the Program :  `G8000` Enter
+4.  Register Check - R(Register Name) :  `RB` Enter
+5.  Memory location checking and Data entry Command - M(Memory Address) :  `M9500` Enter
+
+---
