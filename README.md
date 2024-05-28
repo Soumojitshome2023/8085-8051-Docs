@@ -141,3 +141,52 @@ This document provides a comprehensive summary of the instructions for the 8085 
   - **Example**: `NOP` – No operation.
 
 ---
+
+# Intel 8085 Microprocessor Architecture Overview
+
+
+The Intel 8085 microprocessor is a widely used 8-bit microprocessor introduced by Intel in 1976. It was one of the earliest microprocessors to gain widespread adoption and played a significant role in the development of early personal computing and embedded systems.
+
+
+### Registers
+- Accumulator (A)
+- General Purpose Registers (B, C, D, E, H, L)
+- Stack Pointer (SP)
+- Program Counter (PC)
+- Flags (Sign, Zero, Auxiliary Carry, Parity, Carry)
+
+### Arithmetic and Logic Unit (ALU)
+- Performs arithmetic and logic operations.
+
+### Control Unit
+- Decodes instructions and generates control signals.
+
+### Memory
+- 16-bit address bus, allowing access to 64KB of memory.
+- Organized into 8KB segments.
+
+### Instruction Set
+- Includes data movement, arithmetic, logic, branching, and I/O operations.
+
+### Interrupts
+- Supports five interrupts: TRAP, RST 7.5, RST 6.5, RST 5.5, INTR.
+
+### Serial I/O Ports
+- SOD (Serial Output Data) and SID (Serial Input Data).
+
+### Control Signals
+- Manage data flow between components.
+
+### Bus Structure
+- 8-bit data bus and 16-bit address bus.
+
+## Modes of Operation
+- Minimum Mode
+- Maximum Mode
+
+## Requirements
+- +5V DC power supply
+- Single-phase clock signal
+
+
+---
