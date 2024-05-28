@@ -191,8 +191,7 @@ The Intel 8085 microprocessor is a widely used 8-bit microprocessor introduced b
 
 ---
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/98Q2UwiFB70?si=TE-BG2ulZ2JmZCdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Video : [Click Here](https://youtu.be/98Q2UwiFB70?si=pzh7Gb665DN-RW7y) / [https://youtu.be/98Q2UwiFB70?si=pzh7Gb665DN-RW7y](https://youtu.be/98Q2UwiFB70?si=pzh7Gb665DN-RW7y)
 
 # 8085 Microprocessor Commands
 
