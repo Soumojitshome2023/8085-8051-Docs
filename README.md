@@ -24,6 +24,7 @@
     12. [Transfer Block of Data](./8085%20Code/12%20Transfer%20Block%20of%20Data.asm)
     13. [Add 6 BCD](./8085%20Code/13%20Add%206%20BCD.asm)
     14. [Compare Two String](./8085%20Code/14%20Compare%20Two%20String.asm)
+    15. [multiply two 8-bit numbers shift and add method](./8085%20Code/15%20shift%20and%20add.asm)
 
 
 ## 8051 : 
@@ -33,3 +34,5 @@
     2. [Exchange upper and lower nibble](./8051%20Code/02%20Exchange%20upper%20and%20lower%20nibble.asm)
     3. [Load Data](./8051%20Code/03%20Load%20Data.asm)
     4. [Exchange upper and lower nibble 2](./8051%20Code/04%20Exchange%20upper%20and%20lower%20nibble%202.asm)
+
+# Best of Luck 🤗🎉
